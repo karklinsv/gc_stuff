@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GCrrrr",
+        "description": "Zzzzzzsssss",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.419763,
+          24.077787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GCzzzzz",
+        "description": "zzzzz",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.099817,
+          24.154267
+        ]
+      }
+    }
+]
+}
